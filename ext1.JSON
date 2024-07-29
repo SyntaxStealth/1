@@ -1,20 +1,11 @@
 {
     "verification":"6185298eaa07e7d343",
-    "how-to-implement": "https://github.com/SyntaxStealth/Stealth-Syntax",
     "info": {
         "location": "Pennsylvania, USA",
-        "social": {
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": "",
-            "patreon_handle": "",
-            "linkedin_handle": "",
             "ada_handle": "$Stealth_Syntax"
         },
         "company": {
-            "name": "Stealth Syntax",
+            "name": "Stealth_Syntax",
             "addr": "Pennsylvania",
             "city": "Philadelphia",
             "country": "USA",
